@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://excellpepple.github.io/csb-c06t6/static/css/main.f29ae65a.chunk.css",
+    "main.js": "https://excellpepple.github.io/csb-c06t6/static/js/main.c1bd34c9.chunk.js",
+    "main.js.map": "https://excellpepple.github.io/csb-c06t6/static/js/main.c1bd34c9.chunk.js.map",
+    "runtime-main.js": "https://excellpepple.github.io/csb-c06t6/static/js/runtime-main.9458ef28.js",
+    "runtime-main.js.map": "https://excellpepple.github.io/csb-c06t6/static/js/runtime-main.9458ef28.js.map",
+    "static/js/2.a4ba2aed.chunk.js": "https://excellpepple.github.io/csb-c06t6/static/js/2.a4ba2aed.chunk.js",
+    "static/js/2.a4ba2aed.chunk.js.map": "https://excellpepple.github.io/csb-c06t6/static/js/2.a4ba2aed.chunk.js.map",
+    "index.html": "https://excellpepple.github.io/csb-c06t6/index.html",
+    "static/css/main.f29ae65a.chunk.css.map": "https://excellpepple.github.io/csb-c06t6/static/css/main.f29ae65a.chunk.css.map",
+    "static/js/2.a4ba2aed.chunk.js.LICENSE.txt": "https://excellpepple.github.io/csb-c06t6/static/js/2.a4ba2aed.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9458ef28.js",
+    "static/js/2.a4ba2aed.chunk.js",
+    "static/css/main.f29ae65a.chunk.css",
+    "static/js/main.c1bd34c9.chunk.js"
+  ]
+}
